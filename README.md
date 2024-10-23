@@ -28,12 +28,12 @@ Download Git to git clone the repository
 
 **Step 8: Clone the Repository**
 - Open the terminal > New Terminal > 
-- [git clone https://github.com/Jundel-Malazarte29/Password-Generator-Python.git]
+  git clone https://github.com/Jundel-Malazarte29/Password-Generator-Python.git
 
 **Step 9: Run the main.py**
 - to run the main.py
 - open terminal > type: python main.py
 
 **Step: 10: Sample output**
-It generates 10 digits of random password
-- @JSlmBPWkw
+It generates 10 digits of a random password
+@JSlmBPWkw
